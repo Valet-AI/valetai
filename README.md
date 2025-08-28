@@ -8,7 +8,7 @@ We are currently overwhelmed by the sheer number of digital tools we use. From a
 
 **Valet AI** is a decentralized, user-owned AI application deployed on the Internet Computer Blockchain. It is a system built to empower users with a sovereign, personal AI agent that can automate and streamline their daily digital lives. The platform’s modular architecture is designed around a core **User Agent canister**, which functions as the user's personal hub. From this hub, users can integrate specialized agents from an **Agents Marketplace** to extend functionality as they see fit.
 
-![Valet AI Overview](../public/Valet-overview.png)
+![Valet AI Overview](./public/Valet-overview.png)
 
 
 The system comprises several core components that create a seamless and powerful user experience:
@@ -17,25 +17,25 @@ The system comprises several core components that create a seamless and powerful
   <br/>
   This is a personal agent that a user owns and controls. It has its own canister storage to securely hold user data such as images and documents, and it also manages a multi-chain wallet to store assets from various blockchains.
 
-  ![Overview of User Agent](../public/Valet-user%20agent.drawio.png)
+  ![Overview of User Agent](./public/Valet-user%20agent.drawio.png)
 
 - **The Crypto Agent**:
   <br/>
   A specialized agent for multi-chain financial management. This agent can interact with the ICP blockchain, transfer native Bitcoin by leveraging ICP's Direct Bitcoin Integration, and interact with the Ethereum blockchain using the EVM RPC Canister.
 
-  ![Overview of Crypto Agent](../public/Valet-crypto%20agent.drawio.png)
+  ![Overview of Crypto Agent](./public/Valet-crypto%20agent.drawio.png)
 
 -  **The Google Agent**: 
 
     This agent automates tasks across Google's ecosystem. It can generate emails, send them to contacts using the Google People API, create and manage documents, and even sync files between a user's canister storage and their Google Drive.
 
-    ![Overview of Google Agent](../public/Valet-Google%20Agent.drawio.png)
+    ![Overview of Google Agent](./public/Valet-Google%20Agent.drawio.png)
 
 - **The Social Media Agent**:
   <br/>
   This agent allows users to manage their social accounts from a single interface. It can generate content and upload it to platforms such as Facebook, Instagram, and X (formerly Twitter) by integrating with their respective APIs.
 
-  ![Overview of Social Media Agent](../public/Valet-Social%20Media%20Agent.drawio.png)
+  ![Overview of Social Media Agent](./public/Valet-Social%20Media%20Agent.drawio.png)
 
 <br/>
 <br/>
